@@ -3,3 +3,5 @@ Initial File 1 in master branch
 This is a change
 
 This is another change
+
+Ammended Stash Change
